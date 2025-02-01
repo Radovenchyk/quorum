@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/consensys/quorum/master/logo.png" width="200" height="35"/>
 
 
-![Build Check](https://github.com/jpmorganchase/quorum/workflows/Build%20Check/badge.svg?branch=master)
+![Build Check](https://github.com/xmtp/xmtp-ios/actions/workflows/Build%20Check/badge.yml/badge.svg))
 [![Docker Pulls](https://img.shields.io/docker/pulls/quorumengineering/quorum)](https://hub.docker.com/r/quorumengineering/quorum)
 [![Discord](https://img.shields.io/discord/697535391594446898)](https://discord.com/channels/697535391594446898/747810572937986240)
 
